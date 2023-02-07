@@ -9,6 +9,10 @@ It would allow the user to have a cookbook of recipies and show what they can ma
 Due to time constraints, the project currently has multiple, seeded users, as well as seeded ingredients and recipies. You can see all ingredients and recipies associated with a user. You can also add ingredients/recipies to 
 a User's pantry/cookbook. When a new item is added, it is also added to the master list of ingredients and recipies for all users to see. If an item is deleted from a user, that item remains in the master list.
 
+Commands:
+Start Client server: `npm start`
+Start Ruby server: `bundle exec rake server`
+
 [Front-end Repo](https://github.com/sassek70/Phase-3-Project-Frontend)
 
 [Back-end Repo](https://github.com/sassek70/phase-3-sinatra-react-project)
